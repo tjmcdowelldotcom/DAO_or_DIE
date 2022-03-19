@@ -1,5 +1,5 @@
 #
-#
+
 <img src="./Images/DOD1.jpg" alt="drawing" style="width:600px;"/>
 
 ### <div style="text-align: justify">DAO or DIE is a cooperative network of individuals and groups who seek through direct action to improve wellbeing in our communities. We are made up of households, collectives, and autonomous spaces that have come together peacefully to support one another and the common ground that surrounds us. Our unity is bolstered by our dynamic use of blockchain technology in light of our guiding principles: mutuality, transparency, and promoting quality of life.</div>
@@ -21,6 +21,7 @@
 
 #
 #
+
 <img src="./Images/DOD4.jpg" alt="drawing" style="width:600px;"/>
 
 ### <div style="text-align: justify">For proof-of-concept development and demonstration purposes, the voting system was deployed via ethereum smart contract on a local testnet. The technologies used included:
@@ -73,7 +74,7 @@
 <img src="./Images/DOD11.jpg" alt="drawing" style="width:600px;"/>
 
 ### <div style="text-align: justify"> Once the vote has been cast the voter is presented with visualized real-time polling data pulled directly from the blockchain via Web3.py. This is another checks-and-balances measure that can be included in the voting process to enhance transparency. There are several prospective ways to incorporate such a feature into the voting experience. We chose to display the voting data after someone votes so as to minimize the potential for voter persuasion.
-
+[Click Here For A Video Demo](https://youtu.be/X69WVc_qKJA)<br>
 #
 #
 <img src="./Images/DOD13.jpg" alt="drawing" style="width:600px;"/>
@@ -85,3 +86,6 @@
 <li>We also believe that we would be able to enhance security by incorporating geographic information in our data visualizations. 
 <li>Other DAO voting systems have included the use of NFTs, and we would use resources to be able to research and develop in this area. 
 <li>Finally, we seek to mint our own fungible token with the hopes of further advancement & facilitation of our own in-house mutual-aid efforts.
+
+#
+#
